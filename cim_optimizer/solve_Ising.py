@@ -339,7 +339,8 @@ class Ising:
         random_number_function = np.random.normal()  # Random Number Generator Function
         # HYPERPARAMETER OPTIMIZATION SCHEME
         hyperparameters_autotune: bool = False
-        hyperparameters_randomtune: bool = True
+        hyperparameters_randomtune: bool = False
+        #changed hyperparameters_randomtune default to False!!
         # AHC-NO-EXTERNAL-FIELD HYPERPARAMETERS
         ahc_noext_time_step: float = 0.05
         ahc_noext_r: float = 0.2
@@ -638,6 +639,7 @@ class Ising:
             result.__setattr__("time", time_elapsed)
             result.__setattr__("result_data", return_data)
             self.result = result
+            print('this is result.lowest_energy_spin_config', result.lowest_energy_spin_config)
             return result
 
         def CIM_AHC_GPU(self, **kwargs):
