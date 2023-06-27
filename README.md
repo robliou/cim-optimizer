@@ -1,5 +1,4 @@
-# McMahon CIM Optimizer (Cornell 大学)
-
+# McMahon CIM Optimizer 
 MaxCut 问题的 McMahon CIM Optimizer 测试方法的存储库 (Repository for testing McMahon CIM Optimizer algorithm for MaxCut problem)
 
 <h2> 概述  </h2>
