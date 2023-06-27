@@ -1,4 +1,4 @@
-# McMahon CIM Optimizer (Cornell 大学)
+# McMahon CIM Optimizer
 
 MaxCut 问题的 McMahon CIM Optimizer 测试方法的存储库 (Repository for testing McMahon CIM Optimizer algorithm for MaxCut problem)
 
@@ -20,6 +20,7 @@ MaxCut 问题的 McMahon CIM Optimizer 测试方法的存储库 (Repository for 
 Simulated annealing using the <code>cim-optimizer</code> package<br>
 
 <br>
+存储库:<br>
 (https://github.com/mcmahon-lab/cim-optimizer)
 
  <h2>指示 </h2>
