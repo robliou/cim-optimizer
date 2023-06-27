@@ -20,7 +20,7 @@ MaxCut 问题的 McMahon CIM Optimizer 测试方法的存储库 (Repository for 
 Simulated annealing using the <code>cim-optimizer</code> package<br>
 
 <br>
-<https://github.com/mcmahon-lab/cim-optimizer>
+[repository](https://github.com/mcmahon-lab/cim-optimizer)
 
  <h2>指示 </h2>
  <h4>克隆此文件夹 Clone this folder</h4>
